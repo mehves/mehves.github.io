@@ -1,0 +1,49 @@
+
+body {
+	text-align: center;
+	margin: 33px;
+	border:10px;
+	border-style: solid;
+	border-color: black;
+	border-left:none;
+	border-right:none;
+	background-color: rgb(198,198,198);
+}
+
+ul {
+	list-style-position: inside;
+	text-align: left;
+
+}
+
+h1 {
+	text-align: center;
+	color: black;
+	padding: 20;
+	text-transform: uppercase;
+}
+
+h3 {
+
+}
+
+img {
+	border:1px; 
+	padding: 2px;
+	border-style: solid; 
+	border-color: black;
+    float:right;
+    height:20%;
+}
+
+hr {
+	width:70%;
+}
+p {
+	text-align: left;
+
+}
+
+.uppercase {
+	text-transform: uppercase;
+}
